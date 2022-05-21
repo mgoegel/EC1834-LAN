@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 1834_Ethernet-rescue)(type Legacy)(uri ${KIPRJMOD}/1834_Ethernet-rescue.lib)(options "")(descr ""))
+  (lib (name 1834_bus)(type Legacy)(uri F:/OneDrive/Projekte/EC1834-LAN/KiCad/ec1834-post-lib.lib)(options "")(descr ""))
+)
